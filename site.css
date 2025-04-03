@@ -1,0 +1,125 @@
+body{
+	background-color: lightgray;
+}
+
+.logo{
+	background-color: darkslategrey;
+	height: auto;
+	color: white;
+}
+
+.logo p{
+	mangin-top:10%;
+	font-size: 22px;
+	margin-top: 8%;
+}
+
+.menu{
+	background-color: darkslategrey;
+	height: 90%;
+
+}
+
+.meumenu{
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+.banner{
+	height: auto;
+	background-color: black;
+
+}
+
+.banner img{
+	width: 100%;
+}
+
+.c1{
+	height: 300px;
+	background-color: transparent;
+	border-right: 1px solid black;
+}
+
+.c2{
+	height: 300px;
+	background-color: transparent;
+	border-right: 1px solid black;
+}
+
+.c3{
+	height: 300px;
+	background-color: transparent;
+	border-right: 1px solid black;
+}
+
+.c4{
+	height: 300px;
+	background-color: transparent;
+	border-right: 1px solid black;
+}
+
+.c1 h2{
+	font-size: 20px;
+	text-align: center;
+}
+
+.c1 img{
+	width: 80%;
+	margin-left: 8%;
+}
+
+.c1 p{
+	text-align: justify;
+}
+
+.c2 h2{
+	font-size: 20px;
+	text-align: center;
+}
+
+.c2 img{
+	width: 80%;
+	margin-left: 4%;
+}
+
+.c2 p{
+	text-align: justify;
+}
+
+.c3 h2{
+	font-size: 20px;
+	text-align: center;
+}
+
+.c3 img{
+	width: 80%;
+	margin-left: 4%;
+}
+
+.c3 p{
+	text-align: justify;
+}
+
+.c4 h2{
+	font-size: 20px;
+	text-align: center;
+}
+
+.c4 img{
+	width: 80%;
+	margin-left: 4%;
+}
+
+.c4 p{
+	text-align: justify;
+}
+
+.rodape {
+    background-color: black;
+    color: white;
+    height: auto;
+    width: 100%;
+    font-size: 14px;
+    font-family: helvetica;
+}
